@@ -1,0 +1,2 @@
+In this project, we'll load air quality data from AirNow and process the data to get some useful information from it.
+All the data including city zip code and monitoring site locations are from AirNow API and database.
